@@ -8,6 +8,7 @@
 * [wsimport to jar](https://gist.github.com/mahmudfahmi/17668edd041a68f59a6cd1728953ab1f)
 * [Convert MilliSeconds To FormattedDate](https://gist.github.com/mahmudfahmi/dc5b60524b384d14e10e0c7c45e68b51)
 * [JAVA String Trick Codes](https://gist.github.com/mahmudfahmi/fb1055bd22a1f28b6b6018de1a89fa7f)
+* [GenerateKeys](https://gist.github.com/mahmudfahmi/152fa26294f40176071d4c0b255d0946)
 * [Feign Ignore SSL verify](https://gist.github.com/mahmudfahmi/2ddf842ed40dfed82adf76879874d4fd)
 
 ## Docker
