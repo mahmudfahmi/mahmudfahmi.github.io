@@ -2,7 +2,7 @@
 
 ## OpenSSL
 * [OpenSSL File Encryption](https://gist.github.com/mahmudfahmi/5ac4ba06ce9e7738111d020f7389ac94)
-* [Making Key Store (.p12) from certificate chain](https://gist.github.com/mahmudfahmi/7b26201877120d6980870d8b718cf4f1)
+* [Creating .p12 form Certificate Chain](https://gist.github.com/mahmudfahmi/21e22d818ed0fe41af700238011ad62c)
 
 ## Java
 * [wsimport to jar](https://gist.github.com/mahmudfahmi/17668edd041a68f59a6cd1728953ab1f)
